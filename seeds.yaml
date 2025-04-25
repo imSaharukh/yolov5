@@ -1,0 +1,10 @@
+# seeds.yaml
+
+path: ../seed_dataset  # path to your dataset root
+
+train: images/train
+val: images/val
+
+nc: 2  # number of classes
+
+names: ['good_seed', 'bad_seed']
